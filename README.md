@@ -26,7 +26,7 @@
 
 - Mostra a posição do freio de mão em tempo real, em porcentagem.
 - Calibra o início e o fim do curso da alavanca e permite inverter o eixo.
-- Modo **Analógico** (eixo de joystick) ou modo **Tecla** (aperta uma tecla ao passar do limite escolhido).
+- Modo **Progressivo** (eixo de joystick) ou modo **Tecla** (aperta uma tecla ao passar do limite escolhido).
 
 ## Licença
 
