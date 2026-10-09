@@ -1,0 +1,56 @@
+COV3R DRIFT APP - LICENÇA DE USO DE SOFTWARE
+Copyright © 2026 COV3R. Todos os direitos reservados.
+
+Este software ("COV3R DRIFT APP") é de propriedade da COV3R e é protegido pela
+legislação de direitos autorais e de software (Lei nº 9.609/1998 e Lei nº 9.610/1998)
+e por tratados internacionais.
+
+1. PERMISSÃO DE USO
+   A COV3R concede a você uma licença pessoal, gratuita, não exclusiva e
+   intransferível para baixar, instalar e usar o COV3R DRIFT APP em computadores
+   de sua propriedade, com a finalidade de configurar e usar o freio de mão USB
+   COV3R.
+
+2. O QUE NÃO É PERMITIDO
+   Sem autorização prévia e por escrito da COV3R, você não pode:
+   a) vender, alugar, sublicenciar ou distribuir o software, no todo ou em parte;
+   b) publicar o software, ou links de download próprios, em outros sites, lojas
+      ou serviços;
+   c) modificar, traduzir, descompilar, desmontar ou fazer engenharia reversa do
+      software, exceto quando a lei expressamente permitir;
+   d) remover ou alterar o nome, a marca, a logo ou os avisos de direitos
+      autorais da COV3R;
+   e) usar o software, a marca ou a logo COV3R para criar ou divulgar produtos
+      concorrentes.
+
+3. PROPRIEDADE
+   O software, o código-fonte, a interface, a marca, a logo e a identidade
+   visual COV3R continuam sendo de propriedade exclusiva da COV3R. Esta licença
+   não transfere nenhum direito de propriedade a você.
+
+4. COMPONENTES DE TERCEIROS
+   O software inclui componentes de terceiros, que seguem as suas próprias
+   licenças: a biblioteca HidSharp (Apache License 2.0) e as fontes Chakra Petch,
+   Barlow e uma versão modificada da Orbitron (SIL Open Font License 1.1). Os
+   textos dessas licenças acompanham o software.
+
+5. SEM GARANTIA
+   O software é fornecido "no estado em que se encontra", sem garantias de
+   qualquer tipo, na máxima extensão permitida pela lei. A COV3R não garante
+   que o software funcione sem erros ou que seja compatível com todos os jogos,
+   computadores ou dispositivos.
+
+6. LIMITAÇÃO DE RESPONSABILIDADE
+   Na máxima extensão permitida pela lei, a COV3R não se responsabiliza por
+   danos indiretos, perda de dados ou lucros cessantes decorrentes do uso ou da
+   impossibilidade de uso do software. Nada nesta licença limita direitos que o
+   Código de Defesa do Consumidor garante a você.
+
+7. ENCERRAMENTO
+   Esta licença termina automaticamente se você descumprir qualquer uma das
+   regras acima. Nesse caso, você deve apagar todas as cópias do software.
+
+8. LEI APLICÁVEL
+   Esta licença é regida pelas leis da República Federativa do Brasil.
+
+Ao baixar, instalar ou usar o COV3R DRIFT APP, você concorda com esta licença.
